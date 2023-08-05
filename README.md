@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-stark&label=Profile%20views&color=0e75b6&style=flat" alt="coder-stark" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-stark" alt="coder-stark" /></a> </p>
-
 - 🔭 I’m currently working on **Personal Project**
 
 - 🌱 I’m currently Enhancing knowledge in **Full Stack Development**

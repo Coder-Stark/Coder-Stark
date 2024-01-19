@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="center">
-  <img alt="Coding" width="400" src="https://camo.githubusercontent.com/f1af8a957990539494a56ce741b6704596863b75be429189fe9bb605e129eefa/68747470733a2f2f77616c6c7061706572636176652e636f6d2f7577702f7577703735373639332e676966">
+  <img alt="Coding" width="400" src="http://drive.google.com/uc?export=view&id=1tLF1GY7uQXR4RIIZFdsVPMkX9pF_KuvF">
 </p>
 
 
@@ -13,11 +13,11 @@
 
 - 👯 I’m looking to collaborate on **Open Source Contribution**
 
+- 📄 My PortFolio : [PortFolio : shivam__kumar](https://www-shivamkumarportfolio.netlify.app)
+
+- 💬 Ask me about **MERN Stack, C, C++, React Native (Mobile Application Development)**
+
 - 👨‍💻 All of my projects are available at [https://linktr.ee/shivam__kumar](https://linktr.ee/shivam__kumar)
-
-- 💬 Ask me about **MERN Stack, C, C++**
-
-- 📄 Know about my experiences [https://linktr.ee/shivam__kumar](https://linktr.ee/shivam__kumar)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

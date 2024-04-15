@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer (MERN Stack) & Mobile App Developer (React Native) from India</h3>
 <p align="center">
   <img alt="Coding" width="400" src="http://drive.google.com/uc?export=view&id=1ICEsRg11_6xmQ1bE9K11YEfFbSFUGy8K">
 </p>

@@ -13,11 +13,11 @@
 
 - 👯 I’m looking to collaborate on **Open Source Contribution**
 
-- 📄 My PortFolio : [PortFolio : shivam__kumar](https://www-shivamkumarportfolio.netlify.app)
+- 📄 My PortFolio : [PortFolio Website: Shivam Kumar](https://shivam-kumar-rajbhar.netlify.app/)
 
 - 💬 Ask me about **MERN Stack, C, C++, React Native (Mobile Application Development)**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/shivam__kumar](https://linktr.ee/shivam__kumar)
+- 👨‍💻 All of my projects are available at [Link Tree: Shivam Kumar](https://linktr.ee/shivam_kumar_rajbhar)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

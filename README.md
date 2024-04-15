@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="center">
-  <img alt="Coding" width="400" src="http://drive.google.com/uc?export=view&id=1tLF1GY7uQXR4RIIZFdsVPMkX9pF_KuvF">
+  <img alt="Coding" width="400" src="http://drive.google.com/uc?export=view&id=1ICEsRg11_6xmQ1bE9K11YEfFbSFUGy8K">
 </p>
 
 
